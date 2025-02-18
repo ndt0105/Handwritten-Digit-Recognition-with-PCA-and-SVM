@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition-with-PCA-and-SVM
-FPTU DAP391m
+FPTU DAP391m assignment project
